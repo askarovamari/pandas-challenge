@@ -1,0 +1,12 @@
+The purpose of the assignment is to aggregate the data of 15 schools with total of 39,170.00 students and budet of $24,649,428.00 to showcase obvious trends in school performance. 
+
+The average math score across all schools is 78.99 with a passing math percentage of 74.98, whereas the average reading score is 81.88 with a passing reading percentage of 85.81. Overall passing rate for both disciplines equals to 65.17.
+
+Overall passing rate is sunstantially higher in the Charter schools (90.43) that surpasses average rate almos by half. Based on the given data, it also seems that Medium size schools have the best overall passing rate among other types.
+
+Comparing 5 highest and 5 least performing schools it comes to a conclusion that there is an explicit gap between math and reading pass rates. In the bottom 5 schools math is one of the areas for improvement.
+
+The data shows that top achievers are from Holden High School for math in grade 11 with average math score of 85, for reading in grade 12 with average score of 84.7.
+
+
+
